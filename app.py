@@ -55,11 +55,11 @@ def invitation():
     <body>
         <div class="card">
             <h1>🙏 Satyanarayan Pooja Invitation 🙏</h1>
-            <h2>Hosted by {host_name}</h2>
+            <h2>Hosted by Technopath</h2>
             <p>{message}</p>
-            <p><b>Date:</b> {event_date}</p>
-            <p><b>Time:</b> {event_time}</p>
-            <p><b>Venue:</b> {venue}</p>
+            <p><b>Date:</b> 2-aug-2025</p>
+            <p><b>Time:</b> 10:00AM</p>
+            <p><b>Venue:</b> only ladu</p>
             <div class="footer">
                 <p>We look forward to your presence and blessings.</p>
             </div>
